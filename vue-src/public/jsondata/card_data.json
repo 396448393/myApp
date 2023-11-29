@@ -1,0 +1,8 @@
+{
+	"cards":[
+		[
+			{"title":"打开网址","info":"ddd","link":"11","imgUrl":"./public/img/logo.png"},
+			{"title":"其他功能","info":"aa","link":"22","imgUrl":"./public/img/logo.png"}
+		]
+	]
+}
